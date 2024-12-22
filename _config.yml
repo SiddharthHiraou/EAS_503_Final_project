@@ -1,5 +1,5 @@
-title: "Classification of Customer Spending"
-author: "Abhishek Jadhav"
+title: "Classification Project"
+author: "Name"
 logo: ""
 execute:
   execute_notebooks: "off"
@@ -10,11 +10,11 @@ myst_enable_extensions:
 
 html:
   output_folder: docs
-  baseurl: /Mood_classification_book/
+  baseurl: /Classification_book/
   use_repository_button: true
 
 repository:
-  url: https://github.com/abhi-dataprofile/Customer_jupyter-book
+  url: 
   path_to_book: ./
   branch: main
 

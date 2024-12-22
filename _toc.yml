@@ -5,8 +5,8 @@ chapters:
   - file: content/resume
   - file: content/code_section
     sections:
-      - file: content/notebooks/EAS_503_PROJECT
+      - file: content/notebooks/final_project
       - file: content/notebooks/FastAPI
       - file: content/notebooks/Streamlit
-      - file: content/code_files/data_profile_report_copy.html
+      - file: content/code_files/dataset_profile_report.html
   - file: content/links

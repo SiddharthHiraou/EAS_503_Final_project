@@ -2,9 +2,9 @@
 
 Here is my resume:
 
-[Download Resume (PDF)](content/Abhishek_Jadhav_Resume.pdf)
+[Download Resume (PDF)](content/.pdf)
 
 ## Summary
-- **Name**: Abhishek Jadhav
-- **Education**: Masters in Data Science
-- **Skills**: Python, ML, Streamlit, FastAPI, Docker 
+- **Name**: 
+- **Education**: MS in DS
+- **Skills**: Python
